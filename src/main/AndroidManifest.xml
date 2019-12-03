@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="me.example.helloworld">
+
+    <application>
+        <activity
+            android:name="com.example.helloworld.HelloWorldActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+    </application>
+
+</manifest>
